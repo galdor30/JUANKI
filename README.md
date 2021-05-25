@@ -1,3 +1,2 @@
-# JUANKI
-Repositorio de prueba
-primer cambio para probar los commit de david
+# JUANKI & DAVID
+Proyecto de colaboración para futuros proyectos
